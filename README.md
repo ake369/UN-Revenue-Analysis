@@ -3,6 +3,8 @@
 ![Revenue Trend](images/Top_10.png)
 <p align="center"><b>Top-10 UN Agencies by Total Revenue from 2018 to 2023</b></p>
 
+![Revenue Trend](images/revenue_distribution.png)
+<p align="center"><b>Contributed Revenue Type Distribution</b></p>
 ---
 
 ## 📊 Project Overview
