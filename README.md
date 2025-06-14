@@ -61,3 +61,32 @@ The data is sourced from the official CEB portal and includes the following colu
 ├── README.md
 ├── LICENSE
 ```</pre>
+
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ake369/un-revenue-analysis.git
+   cd un-revenue-analysis
+2. Create virtual enviroment and activate it
+   ```bash
+   python -m venv venv
+   venv\scripts\activate
+   ```
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run 
+```bash
+   notebook/Data_analysis(EDA).ipynb
+   ```
+
+📬 Contact
+Feel free to connect or collaborate:
+- Name: Akalu Abraham
+- Email: your.ake.abrish@gmail.com
+- GitHub: [@yourusername](https://github.com/ake369/UN-Revenue-Analysis) 
