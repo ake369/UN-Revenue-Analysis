@@ -89,4 +89,4 @@ The data is sourced from the official CEB portal and includes the following colu
 Feel free to connect or collaborate:
 - Name: Akalu Abraham
 - Email: your.ake.abrish@gmail.com
-- GitHub: [@yourusername](https://github.com/ake369/UN-Revenue-Analysis) 
+- GitHub: [(https://github.com/ake369/UN-Revenue-Analysis)]
