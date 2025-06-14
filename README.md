@@ -24,7 +24,7 @@ The data is sourced from the official CEB portal and includes the following colu
 | `amount`          | Revenue amount in USD |
 | `rev_type`        | Revenue category type |
 | `sub_type`        | Subcategory code |
-| `sub_type_name`   | Human-readable name of subcategory |
+| `sub_type_name`   | Revenue source subcategory |
 
 ---
 
@@ -49,3 +49,14 @@ The data is sourced from the official CEB portal and includes the following colu
 
 ## 📁 Repository Structure
 
+├── dataset/
+│ └── revenue.csv
+| └── cleaned_un_revenue.csv
+├── images/
+│ └── revenue_trend.png
+│ └── revenue_distribution.png
+│ └── Top_10.png
+├── notebooks/
+│ └── Data_analysis(EDA).ipynb
+├── README.md
+├── LICENSE
