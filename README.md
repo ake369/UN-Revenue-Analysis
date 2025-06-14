@@ -1,7 +1,7 @@
 # 🌐 UN System Revenue Data Analysis
 
 ![Revenue Trend](images/Top_10.png)
-<p align="center"><b>UN Revenue Trends by Year (Sample Visualization)</b></p>
+<p align="center"><b>Top-10 UN Agencies by Total Revenue from 2018 to 2023</b></p>
 
 ---
 
