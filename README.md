@@ -20,7 +20,7 @@ The data is sourced from the official CEB portal and includes the following colu
 | Column Name       | Description |
 |-------------------|-------------|
 | `agency`          | UN agency or organization name |
-| `calendar_year`   | Fiscal/calendar year |
+| `calendar_year`   | calendar year (2018 to 2023) |
 | `amount`          | Revenue amount in USD |
 | `rev_type`        | Revenue category type |
 | `sub_type`        | Subcategory code |
@@ -48,7 +48,7 @@ The data is sourced from the official CEB portal and includes the following colu
 ---
 
 ## 📁 Repository Structure
-
+<pre> ```bash
 ├── dataset/
 │ └── revenue.csv
 | └── cleaned_un_revenue.csv
@@ -56,7 +56,8 @@ The data is sourced from the official CEB portal and includes the following colu
 │ └── revenue_trend.png
 │ └── revenue_distribution.png
 │ └── Top_10.png
-├── notebooks/
+├── notebook/
 │ └── Data_analysis(EDA).ipynb
 ├── README.md
 ├── LICENSE
+```</pre>
