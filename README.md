@@ -1,0 +1,51 @@
+# 🌐 UN System Revenue Data Analysis
+
+![Revenue Trend](images/Top_10.png)
+<p align="center"><b>UN Revenue Trends by Year (Sample Visualization)</b></p>
+
+---
+
+## 📊 Project Overview
+
+This project explores and analyzes revenue data from the United Nations (UN) system. The dataset is produced by the CEB Secretariat and focuses on financial data related to Human Resources, Finance, and Budget operations across various UN agencies.
+
+We clean, analyze, and visualize this dataset to uncover trends in funding distribution, revenue types, and agency-level insights.
+
+---
+
+## 🗂️ Dataset Description
+
+The data is sourced from the official CEB portal and includes the following columns:
+
+| Column Name       | Description |
+|-------------------|-------------|
+| `agency`          | UN agency or organization name |
+| `calendar_year`   | Fiscal/calendar year |
+| `amount`          | Revenue amount in USD |
+| `rev_type`        | Revenue category type |
+| `sub_type`        | Subcategory code |
+| `sub_type_name`   | Human-readable name of subcategory |
+
+---
+
+## 🔍 Goals
+
+- ✅ Clean and structure the raw revenue data
+- 📈 Perform exploratory data analysis (EDA)
+- 📊 Visualize key financial trends over time and by agency
+- 🧩 Set the foundation for policy-relevant insights or dashboards
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Jupyter Notebook
+- Git/GitHub
+
+---
+
+## 📁 Repository Structure
+
